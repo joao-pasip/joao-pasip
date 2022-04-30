@@ -1,4 +1,4 @@
-## Olá eu sou João Pasip, estudante de Desenvolvimento Web FullStack na <a href="https://www.betrybe.com/" target="_blank">Trybe!
+<h2>Olá eu sou João Pasip, estudante de Desenvolvimento Web FullStack na <a href="https://www.betrybe.com/" target="_blank">Trybe!</></h2>
 <div align="center">
   <a href="https://github.com/joao-pasip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pasip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
