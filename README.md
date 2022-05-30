@@ -4,7 +4,7 @@ Hi 👋 My name is João Paulo Silva Piauhy
 Web Developer Full Stack
 ------------------------
 
-I 'm a development student at Trybe and love learning about new tecnologies in general, people and process. Currently applying myself to React.js, JavaScript, TypeScript, Docker, SQL and Node.js.
+I'm a development student at Trybe and love learning about new technologies in general, people and process. Currently applying myself to React.js, JavaScript, TypeScript, Docker, SQL and Node.js.
 
 * 🌍  I'm based in Bom Jesus da Lapa - BA - Brasil
 * ✉️  You can contact me at [joaopasip@gmail.com](mailto:joaopasip@gmail.com)
